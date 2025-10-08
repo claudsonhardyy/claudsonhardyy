@@ -46,7 +46,3 @@
 📧 [Email](mailto:contatoclaudsonhardy@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/claudson-hardy)  
 🌐 [Portfólio](https://hardydev.vercel.app)  
-
----
-
-<p align="center">⚡ Minimalista. Profissional. Direto ao ponto. ⚡</p>
