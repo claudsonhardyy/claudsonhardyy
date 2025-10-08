@@ -17,7 +17,7 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 - 🔧 Especializado em **integrações, automações e otimização de processos**  
 - 📚 Em constante aprendizado de tecnologias modernas e cloud  
-- 🎯 Buscando oportunidade como **Dev Júnior** para aplicar minhas skills no mercado  
+- 🎯 Buscando oportunidade como **Dev Júnior** para aplicar minhas habilidades no mercado  
 
 ---
 
